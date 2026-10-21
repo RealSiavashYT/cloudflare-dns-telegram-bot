@@ -1,0 +1,5 @@
+# Example only — do not put real values in this file in a public repository.
+TELEGRAM_BOT_TOKEN=your_telegram_bot_token
+CLOUDFLARE_API_TOKEN=your_cloudflare_api_token
+TELEGRAM_ADMIN_ID=your_telegram_user_id
+TELEGRAM_WEBHOOK_SECRET=replace_with_a_long_random_secret
